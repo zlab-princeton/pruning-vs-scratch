@@ -160,7 +160,7 @@ Released under the [Apache-2.0 License](LICENSE).
 
 ```bibtex
 @article{xu2026smallllms,
-  title   = {Small {LLM}s: Pruning vs. Training from Scratch},
+  title   = {Small LLMs: Pruning vs. Training from Scratch},
   author  = {Xu, Yufeng and Lu, Taiming and Li, Kunjun and Zhu, Jiachen and Sun, Mingjie and Liu, Zhuang},
   year    = {2026},
   journal = {arXiv preprint arXiv:2606.14150}
